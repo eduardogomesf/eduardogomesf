@@ -8,7 +8,7 @@
 
 Hi, there!
 
-I am a back-end developer at @Accenture Brazil 🇧🇷, currently working with NodeJS e Typescript.
+I am a back-end developer at @Accenture Brazil 🇧🇷, currently working with NodeJS and Typescript.
 I am interested in cybersecurity and  software development with JavaScript, TypeScript, NodeJS, React Native and ReactJS.
 and I am also passionate about technology and how it has been changing the world.
 
