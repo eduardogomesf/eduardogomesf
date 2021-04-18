@@ -43,4 +43,4 @@ and I am also passionate about technology and how it has been changing the world
 [2]: https://github.com/eduardogoomesf
 [3]: https://stackoverflow.com/users/11420127/eduardo?tab=profile
 
-## "I do not fear computers. I fear lack of them." - Isaac Asimov
+## "I do not fear computers. I fear the lack of them." - Isaac Asimov
