@@ -1,10 +1,10 @@
 # Eduardo Gomes
 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![reactjs](https://img.shields.io/badge/Reactjs-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![reactnative](https://img.shields.io/badge/Reactnative-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
+[![javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogoomesf)
+[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=node&logoWidth=20)](https://github.com/eduardogoomesf)
+[![reactjs](https://img.shields.io/badge/Reactjs-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
+[![reactnative](https://img.shields.io/badge/Reactnative-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
 
 Hi, there!
 
