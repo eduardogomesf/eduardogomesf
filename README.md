@@ -2,7 +2,7 @@
 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
 [![javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=node&logoWidth=20)](https://github.com/eduardogoomesf)
+[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogoomesf)
 [![reactjs](https://img.shields.io/badge/Reactjs-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
 [![reactnative](https://img.shields.io/badge/Reactnative-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
 
@@ -21,9 +21,10 @@ and I am also passionate about technology and how it has been changing the world
 ## Latest personal projects
 
 <!-- PERSONAL-PROJECT-LIST:START -->
-- [Creating User CRUD with NodeJS, Express and GraphQL](https://github.com/eduardogoomesf/node-graphql)
-- [Creating Twitch Mobile App Clone with React Native and Typesript](https://github.com/eduardogoomesf/twitch-app-clone)
-- [Creating finance manager with NodeJS, Express and Typescript](https://github.com/eduardogoomesf/go-finances-backend)
+- [Creating Plant Manager Mobile App with React Native using Typesript](https://github.com/eduardogoomesf/plant-manager-mobile)
+- [Creating User CRUD with NodeJS using Express and GraphQL](https://github.com/eduardogoomesf/node-graphql)
+- [Creating Twitch Mobile App Clone with React Native using Typesript](https://github.com/eduardogoomesf/twitch-app-clone)
+- [Creating finance manager with NodeJS using Express and Typescript](https://github.com/eduardogoomesf/go-finances-backend)
 <!-- PERSONAL-PROJECT-LIST:END -->
 
 ## My GitHub Stats
