@@ -1,10 +1,10 @@
 # Eduardo Gomes
 
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogoomesf)
-[![reactjs](https://img.shields.io/badge/Reactjs-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
-[![reactnative](https://img.shields.io/badge/Reactnative-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogoomesf)
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/eduardogomesf)
+[![javascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogomesf)
+[![nodejs](https://img.shields.io/badge/Nodejs-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/eduardogomesf)
+[![reactjs](https://img.shields.io/badge/Reactjs-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogomesf)
+[![reactnative](https://img.shields.io/badge/Reactnative-Fan-FAC151.svg?logo=react&logoWidth=20)](https://github.com/eduardogomesf)
 
 Hi, there!
 
@@ -14,34 +14,34 @@ and I am also passionate about technology and how it has been changing the world
 
 ## Socials
 
-- LinkedIn: [https://www.linkedin.com/in/eduardogoomesf/][1]
-- Github: [https://github.com/eduardogoomesf][2]
+- LinkedIn: [https://www.linkedin.com/in/eduardogomesf/][1]
+- Github: [https://github.com/eduardogomesf][2]
 - Stack Overflow: [https://stackoverflow.com/users/11420127/eduardo?tab=profile][3]
 
 ## Latest personal projects
 
 <!-- PERSONAL-PROJECT-LIST:START -->
-- [Creating Plant Manager Mobile App with React Native using Typesript](https://github.com/eduardogoomesf/plant-manager-mobile)
-- [Creating User CRUD with NodeJS using Express and GraphQL](https://github.com/eduardogoomesf/node-graphql)
-- [Creating Twitch Mobile App Clone with React Native using Typesript](https://github.com/eduardogoomesf/twitch-app-clone)
-- [Creating finance manager with NodeJS using Express and Typescript](https://github.com/eduardogoomesf/go-finances-backend)
+- [Creating Chatty, Back end Application, using NodeJS, Express and Typescript](https://github.com/eduardogomesf/chatty)
+- [Creating Plant Manager, Mobile App, using React Native and Typesript](https://github.com/eduardogomesf/plant-manager-mobile)
+- [Creating Twitch Mobile App Clone using React Native and Typesript](https://github.com/eduardogomesf/twitch-app-clone)
+- [Creating Finance manager, Back end, using NodeJS, Express and Typescript](https://github.com/eduardogomesf/go-finances-backend)
 <!-- PERSONAL-PROJECT-LIST:END -->
 
 ## My GitHub Stats
 
-<a href="https://github.com/eduardogoomesf/eduardogoomesf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogoomesf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/eduardogomesf/eduardogomesf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogomesf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/eduardogoomesf/eduardogoomesf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardogoomesf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="eduardogoomesf's GitHub Stats" />
+<a href="https://github.com/eduardogomesf/eduardogomesf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardogomesf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="eduardogomesf's GitHub Stats" />
 </a>
 
 <br/>
 <br/>
 
-[1]: https://www.linkedin.com/in/eduardogoomesf/
-[2]: https://github.com/eduardogoomesf
+[1]: https://www.linkedin.com/in/eduardogomesf/
+[2]: https://github.com/eduardogomesf
 [3]: https://stackoverflow.com/users/11420127/eduardo?tab=profile
 
 ## "I do not fear computers. I fear the lack of them." - Isaac Asimov
