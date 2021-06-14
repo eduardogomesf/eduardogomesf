@@ -21,10 +21,8 @@ and I am also passionate about technology and how it has been changing the world
 ## Latest personal projects
 
 <!-- PERSONAL-PROJECT-LIST:START -->
-- [Creating Chatty, Back end Application, using NodeJS, Express and Typescript](https://github.com/eduardogomesf/chatty)
-- [Creating Plant Manager, Mobile App, using React Native and Typesript](https://github.com/eduardogomesf/plant-manager-mobile)
-- [Creating Twitch Mobile App Clone using React Native and Typesript](https://github.com/eduardogomesf/twitch-app-clone)
-- [Creating Finance manager, Back end, using NodeJS, Express and Typescript](https://github.com/eduardogomesf/go-finances-backend)
+- [Task Manager, a Front end Application, using ReactJS, Styled components and Typescript](https://github.com/eduardogomesf/task-manager)
+- [Chatty, a Back end Application, using NodeJS, Express and Typescript](https://github.com/eduardogomesf/chatty)
 <!-- PERSONAL-PROJECT-LIST:END -->
 
 ## My GitHub Stats
