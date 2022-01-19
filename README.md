@@ -57,4 +57,7 @@ I am a back-end developer at @Accenture. Currently working with NodeJS, Typescri
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogomesf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<br />
+<br />
+
 "I do not fear computers. I fear the lack of them." - Isaac Asimov
