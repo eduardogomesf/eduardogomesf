@@ -4,9 +4,6 @@ Hey, there!
 
 I am a back-end developer at @Accenture. Currently working with NodeJS, Typescript and NestJS.
 
-
-<br />
-
 ## Techs and Tools
 
 
