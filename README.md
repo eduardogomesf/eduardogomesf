@@ -48,9 +48,9 @@ I am a back-end developer at @Accenture. Currently working with NodeJS, Typescri
 ## Latest personal projects
 
 <!-- PERSONAL-PROJECT-LIST:START -->
-- [Async generator](https://github.com/eduardogomesf/task-manager)
+- [Streaming  text file content](https://github.com/eduardogomesf/streaming-file-content-node)
+- [Async generator](https://github.com/eduardogomesf/async-generator-node)
 <!-- PERSONAL-PROJECT-LIST:END -->
-
 
 ## My GitHub Stats
 <a href="https://github.com/eduardogomesf/eduardogomesf">
