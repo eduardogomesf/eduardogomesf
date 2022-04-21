@@ -47,8 +47,8 @@ I am a back-end developer at @Accenture. Currently working with NodeJS, Typescri
 ## Latest personal projects
 
 <!-- PERSONAL-PROJECT-LIST:START -->
-- [Streaming  text file content](https://github.com/eduardogomesf/streaming-file-content-node)
-- [Async generator](https://github.com/eduardogomesf/async-generator-node)
+- [Pizzeria E-commerce](https://github.com/eduardogomesf/pizzeria-ecommerce)
+- [First NodeJS Application with Prisma](https://github.com/eduardogomesf/first-node-app-with-prisma)
 <!-- PERSONAL-PROJECT-LIST:END -->
 
 ## My GitHub Stats
@@ -58,5 +58,3 @@ I am a back-end developer at @Accenture. Currently working with NodeJS, Typescri
 
 <br />
 <br />
-
-"I do not fear computers. I fear the lack of them." - Isaac Asimov
