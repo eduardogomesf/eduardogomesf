@@ -29,6 +29,10 @@ I am a Brazilian Back-end Software Engineer, currently working at @Accenture wit
 </p>
 
 ## Socials
+<<<<<<< HEAD
+=======
+<hr />
+>>>>>>> a87e01c429d99c247667dea1e6c1d48cf2903849
 <p> 
   <a href="https://github.com/eduardogomesf" target="_blank" rel="noreferrer" style="margin-right: 10px">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
@@ -42,6 +46,13 @@ I am a Brazilian Back-end Software Engineer, currently working at @Accenture wit
 </p>
 
 ## Stats
+<<<<<<< HEAD
+=======
+<hr />
+<!-- <a href="https://github.com/eduardogomesf">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogomesf&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a> -->
+>>>>>>> a87e01c429d99c247667dea1e6c1d48cf2903849
 <div style="display: flex; flex-direction: row;">  
   <div style="display: flex; flex-direction: column; justify-content: space-between"> 
     <a href="http://www.github.com/eduardogomesf">
