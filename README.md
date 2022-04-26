@@ -2,59 +2,58 @@
 
 Hey, there!
 
-I am a back-end developer at @Accenture. Currently working with NodeJS, Typescript and NestJS.
-
-## Techs and Tools
-
-
-### Languages
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-
-
-### Tools
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-
-
-### Cloud computing
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
+I am a Brazilian Back-end Software Engineer, currently working at @Accenture with Node JS, Typescript and others.
+## Skills
+<p> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/typescript-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width="32" height="32" />
+  </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nestjs-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/postgresql-colored.svg" width="32" height="32" />
+  </a>
+</p>
 
 ## Socials
+<p> 
+  <a href="https://github.com/eduardogomesf" target="_blank" rel="noreferrer" style="margin-right: 10px">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardogomesf" target="_blank" rel="noreferrer" style="margin-right: 10px">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://stackoverflow.com/users/11420127/eduardo" target="_blank" rel="noreferrer" style="margin-right: 10px">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardogomesf)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardogomesf)
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11420127/eduardo?tab=profile)
+## Stats
+<div style="display: flex; flex-direction: row;">  
+  <div style="display: flex; flex-direction: column; justify-content: space-between"> 
+    <a href="http://www.github.com/eduardogomesf">
+      <img src="https://github-readme-stats.vercel.app/api?username=eduardogomesf&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="eduardogomesf's GitHub stats" />
+    </a>
+    <a href="http://www.github.com/eduardogomesf">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardogomesf&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+  </div>
 
+  <a href="http://www.github.com/eduardogomesf" style="margin-left: 10px">
+    <img src="https://activity-graph.herokuapp.com/graph?username=eduardogomesf&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</div>
 
-## Latest personal projects
-
-<!-- PERSONAL-PROJECT-LIST:START -->
-- [Pizzeria E-commerce](https://github.com/eduardogomesf/pizzeria-ecommerce)
-- [First NodeJS Application with Prisma](https://github.com/eduardogomesf/first-node-app-with-prisma)
-<!-- PERSONAL-PROJECT-LIST:END -->
-
-## My GitHub Stats
-<a href="https://github.com/eduardogomesf/eduardogomesf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogomesf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<br />
-<br />
