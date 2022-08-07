@@ -2,7 +2,7 @@
 
 Hey, there!
 
-I am a Brazilian Back-end Software Engineer, currently working at @Accenture with Node JS, Typescript and other techs.
+I am a Brazilian back-end software Engineer, currently working at @Accenture with Node JS, Typescript and other techs.
 ## Skills
 <p> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin-right: 5px">
