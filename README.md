@@ -2,11 +2,14 @@
 
 Hey, there!
 
-I am a Brazilian back-end software engineer, currently working at @Accenture with Node JS, Typescript and Nestjs.
+I am a brazilian Fullstack software engineer, currently working at @Accenture with Node JS, Typescript and Nestjs.
 ## Skills
 <p> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin-right: 5px">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg" width="32" height="32" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/typescript-colored.svg" width="32" height="32" />
@@ -19,9 +22,6 @@ I am a Brazilian back-end software engineer, currently working at @Accenture wit
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express.svg" width="32" height="32" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/go-colored.svg" width="32" height="32" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" />
