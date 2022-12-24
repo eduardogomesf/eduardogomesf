@@ -2,7 +2,8 @@
 
 Hey, there!
 
-I am a brazilian Fullstack software engineer, currently working at @Accenture with Node JS, Typescript and Nestjs.
+I am a brazilian Fullstack software engineer, currently working at @Accenture with Node, Typescript, Nestjs, VueJS and Nuxt.
+
 ## Skills
 <p> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin-right: 5px">
