@@ -4,7 +4,7 @@ Hey, there!
 
 I am a Backend software developer with more than 3 years of working experience. I am passionate about programming and technology in general.
 
-Here you will be able to see the projects that I'm working on
+Here you will be able to see the personal projects that I'm working on and also new technologies that I'm currently learning.
 
 ## Skills
 <p> 
