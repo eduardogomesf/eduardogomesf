@@ -2,7 +2,7 @@
 
 Hey, there!
 
-I am a Full stack software developer with over 3 years of experience. I love solving problems using technology.
+I am a Full stack Software Developer with over 3 years of experience. I love solving problems using technology.
 
 Here you will be able to see personal projects that I'm working on and also new technologies that I'm currently learning.
 
