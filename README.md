@@ -8,23 +8,16 @@ Here you will see personal projects that I'm working on and also new technologie
 
 ## Skills
 ### Programming languages
-- Golang
-- Typescript (Fullstack)
+Golang and Typescript (Javascript)
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- CosmosDB
+PostgreSQL, MySQL, MongoDB, Redis and CosmosDB
 
 ### Cloud
-- AWS
-- Azure (Mostly CosmosDB, Eventhub, AKS)
+AWS and Azure (Mostly CosmosDB, Eventhub, AKS)
 
 ### Messaging and Streaming
-- Apache Kafka
-- RabbitMQ
+Apache Kafka, Eventhub and RabbitMQ
 
 ## Socials
 <p> 
