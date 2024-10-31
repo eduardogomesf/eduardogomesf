@@ -2,22 +2,31 @@
 
 Hey, there!
 
-I am Software Engineer with over 4 years of experience. I love solving problems and building cool stuff using technology.
+I am Software Engineer with 5 years of experience. I love solving problems and building cool stuff using technology.
 
 Here you will see personal projects that I'm working on and also new technologies that I'm currently learning.
 
 ## Skills
 ### Programming languages
-Golang and Typescript (Javascript)
+TypeScript, Python and Golang
 
 ### Databases
-PostgreSQL, MySQL, MongoDB, Redis and CosmosDB
+PostgreSQL, MySQL, MongoDB and CosmosDB
+
+### Caching
+Redis and Memcached
 
 ### Cloud
-AWS and Azure (Mostly CosmosDB, Eventhub, AKS)
+AWS and Azure (CosmosDB, Eventhub, AKS, Storage Account)
 
 ### Messaging and Streaming
 Apache Kafka, Eventhub and RabbitMQ
+
+### Infra
+Docker, Kubernetes and Terraform
+
+### Observability and Monitoring
+Open Telemetry
 
 ## Socials
 <p> 
